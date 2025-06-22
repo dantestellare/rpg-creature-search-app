@@ -15,7 +15,7 @@ A JavaScript web application that fetches RPG creature data from an external API
 - REST API (freeCodeCamp's RPG Creature API)
 
 ## Live Demo
-[https://dantestellare.github.io/rpg-creature-search](https://dantestellare.github.io/rpg-creature-search)
+[https://dantestellare.github.io/rpg-creature-search-app/](https://dantestellare.github.io/rpg-creature-search-app/)
 
 ## Author
 Diego Lima 
